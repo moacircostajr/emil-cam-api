@@ -18,11 +18,8 @@ Em seguida o ambiente de desenvolvimento deve ser acessado através do comando `
 
 Para sair do ambiente de desenvolvimento execute o comando `deactivate`
 
-<<<<<<< HEAD
+
 As dependências do projeto devem ser instaladas através dos seguintes comandos, nessa ordem:
-=======
-As dependências do projeto devem ser instaladas através dos seguintes comandos nessa ordem:
->>>>>>> 3a45ac254c1e57eb0c22d2457b612a7f440777b7
 * `pip install django`
 * `pip install djangorestframework`
 * `pip install django-cors-headers`
